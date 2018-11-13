@@ -1,5 +1,5 @@
 
-.bg-slider {
+/*.bg-slider {
 	width: 70%;
 	height: 800px;
 	background-position:center center;
@@ -15,4 +15,17 @@
 	font-weight: bold;
 	text-align:center;
 	text-shadow: 1px 1px 1px #000;
+}*/
+main h1 {
+  position: absolute;
+  top: 220px;
+  left: 50%;
+  margin-left: -15%;
+  z-index: 20;
+  
+}
+
+#carousel-chatan img {
+	height: 400px;
+	z-index: 10;
 }
